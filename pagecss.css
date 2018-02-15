@@ -1,0 +1,78 @@
+body
+{
+	background-color: silver;
+}
+
+img
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+	font-size: 24px;
+}
+
+h1
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+}
+h2
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+}
+h3
+{	
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+	font-size: 24px;
+}
+h4
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+}
+h5
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+}
+h6
+{
+	color: black;
+	font-family: "Georgia";
+	text-align: center;
+}
+
+
+ol
+{
+	color: black;
+	font-family: "Georgia";
+	font-size: 24px;
+}
+ul
+{
+	color: black;
+	font-family: "Georgia";
+	font-size: 24px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+}
